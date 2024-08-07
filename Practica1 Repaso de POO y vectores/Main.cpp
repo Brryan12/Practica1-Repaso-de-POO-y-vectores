@@ -4,8 +4,6 @@
 #include"Empleado.h"
 using namespace std;
 
-
-
 int main() {
 
 	ContenedorF1 contenedorEmpleados;
