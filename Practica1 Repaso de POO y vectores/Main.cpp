@@ -25,8 +25,8 @@ int main() {
 	cout << contenedorEmpleados.toString()<<endl;
 	
 	cout << "Empleado con mejor venta: " << contenedorEmpleados.mejorVenta().getNombre() << endl;
-
+	cout << endl;
 	cout << fixed << setprecision(2) << "total de ventas del departamento: " << contenedorEmpleados.totalVentas();
-
+	cout << endl;
 	return 0;
 }
